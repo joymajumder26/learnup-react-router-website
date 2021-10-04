@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 20px;
+    
+    
+}
+
+.background{
+    background-image: url("https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2F0aW9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

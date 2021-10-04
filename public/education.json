@@ -1,0 +1,76 @@
+[
+    {
+      "_id":1,
+      "name": "The Complete SEO Training In One Course",
+      "duration": "80 minute",
+      "Lesson":11,
+      "fees": 9,
+      "img": "https://cdnwp.mobidea.com/academy/wp-content/uploads/2018/04/best-seo-training-courses-760x428-1.png",
+      "address": "Dhanmondi"
+    },
+    {
+      "_id":2,
+      "name": "Hands-On Tableau Training For Data Science",
+      "duration": "16 day",
+      "Lesson":30,
+      "fees": 20,
+      "img": "https://i.ytimg.com/vi/C116gs2Y1nU/maxresdefault.jpg",
+      "address": "Kolabagan"
+    },
+    {
+      "_id":3,
+      "name": "AWS Certification: The Complete Course",
+      "duration": "5 day",
+      "Lesson":15,
+      "fees": 12,
+      "img": "https://i.ytimg.com/vi/3hLmDS179YE/maxresdefault.jpg",
+      "address": "Mohakhali"
+    },
+    {
+      "_id":4,
+      "name": "Design & Art Exam Prep Seminar – DNABOK Guide",
+      "duration": "10 day",
+      "Lesson":14,
+      "fees": 10,
+      "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-11.jpg",
+      "address": "Dhanmondi"
+    },
+    {
+      "_id":5,
+      "name": "PMP Exam Prep Seminar – PMBOK Guide 6 Tableau",
+      "duration": "9 day",
+      "Lesson":15,
+      "fees": 9,
+      "img": "data:image/jpeg;base64,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",
+      "address": "Komlapur"
+    },
+    {
+      "_id":6,
+      "name": "The Complete SEO Training In One Course",
+      "duration": "5 day",
+      "Lesson":11,
+      "fees": 12,
+      "img": "https://cdnwp.mobidea.com/academy/wp-content/uploads/2018/04/best-seo-training-courses-760x428-1.png",
+      "address": "Mirpur"
+    },
+    {
+      "_id":7,
+      "name": "The Complete Business Plan Course (Includes 50 Templates)",
+      "duration": "80 minute",
+      "Lesson":10,
+      "fees": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmK5lYIJTEDRrRdp6yfgTvuGjmHQJ_xisivmGySQCk_bxcuYkNyRDGOT-5x1jskX-dims&usqp=CAU",
+      "address": "Khamarbari"
+    },
+    {
+      "_id":8,
+      "name": "An Entire MBA In 1 Course Award Winning Business",
+      "duration": "15 day",
+      "Lesson":20,
+      "fees": 20,
+      "img": "https://www.real.discount/wp-content/uploads/2017/03/637930_9a22_15.jpg",
+      "address": "Framegate"
+    }
+    
+    
+]

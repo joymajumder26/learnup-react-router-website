@@ -1,0 +1,9 @@
+.service{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 20px; 
+    background-image: url("https://i.pinimg.com/originals/bf/fe/ed/bffeedff5331ec32b734faeee26ff2fe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

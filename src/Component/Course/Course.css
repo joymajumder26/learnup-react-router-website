@@ -1,0 +1,22 @@
+.image img{
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+.services{
+    
+    
+    border: 1px solid #BFBFBF;
+   
+    margin: 5px;
+    
+    
+   text-align: center;
+}
+.services:hover{
+    box-shadow: 10px 10px 5px #aaaaaa;
+    transform: scale(0.9,0.9);
+}
+.text-primary:hover{
+    color: crimson !important;
+}

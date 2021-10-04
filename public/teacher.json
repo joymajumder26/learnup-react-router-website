@@ -1,0 +1,31 @@
+[
+    {
+      "_id":1,
+      "name": "Rout Millance",
+      "rating":3,
+      "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/05/user-2.jpg",
+      "course":"Web Designer"
+    },
+    {
+      "_id":2,
+      "name": "Paul Walker",
+      "rating":5,
+      "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/05/user-3.jpg",
+      "course":"Sales Manager"
+    },
+    {
+      "_id":3,
+      "name": "Adam Wistom",
+      "rating":4,
+      "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/05/user-1.png",
+      "course":"Backend Developer"
+    },
+    {
+      "_id":4,
+      "name": "Daniel Crig",
+      "rating":3,
+      "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/05/user-4.jpg",
+      "course":"Project Designer"
+    }
+   
+]
